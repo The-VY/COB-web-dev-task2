@@ -1,4 +1,4 @@
-const apikey="YOURAPI";
+const apikey="fcfa89bc85399ec38fa73658749ab12c";
 window.addEventListener("load",()=>{
     if(navigator.geolocation){
         navigator.geolocation.getCurrentPosition((position)=>{
